@@ -64,10 +64,10 @@ orientation = portrait
 # author = © Copyright Info
 
 # change the major version of python used by the app
-osx.python_version = 3
+osx.python_version = 3.10.5
 
 # Kivy version to use
-osx.kivy_version = 2.1.0
+osx.kivy_version = 1.11.1
 
 #
 # Android specific
@@ -101,13 +101,13 @@ android.permissions = android.permission.INTERNET,android.permission.CAMERA,andr
 #android.features = android.hardware.usb.host
 
 # (int) Target Android API, should be as high as possible.
-android.api = 34
+#android.api = 34
 
 # (int) Minimum API your APK / AAB will support.
 #android.minapi = 21
 
 # (int) Android SDK version to use
-android.sdk = 29
+#android.sdk = 29
 
 # (str) Android NDK version to use
 #android.ndk = 23b
